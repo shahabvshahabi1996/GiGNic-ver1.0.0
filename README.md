@@ -1,2 +1,1 @@
-# GiGNic-ver1.0.0
-در تاریخ 20 تیر سال 95 اولین پروژه کاری خودم رو گرفتم در اون زمان از کل طراحی وب فقط HTML و CSS  بلد بودم و این کار از پایین ترین سطح سوادم بود که فقط در یک هفته بعد تونستم با استفاده از Customize کردن Bootstrap 4 با  less سایت  GiGNic Ver2.0.0  رو بنویسم
+this Project Was my first Project and I know Nothing from web else HTML and CSS but Two Weeks Later I made GiGNic ver2.0.0 
