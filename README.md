@@ -1,2 +1,2 @@
 # GiGNic-ver1.0.0
-it was my First Bussiness Project and I didnt Know Any Thing about responsive 
+در تاریخ 20 تیر سال 95 اولین پروژه کاری خودم رو گرفتم در اون زمان از کل طراحی وب فقط HTML و CSS  بلد بودم و این کار از پایین ترین سطح سوادم بود که فقط در یک هفته بعد تونستم با استفاده از Customize کردن Bootstrap 4 با  less سایت  GiGNic Ver2.0.0  رو بنویسم
